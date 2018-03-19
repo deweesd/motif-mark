@@ -1,0 +1,6 @@
+>INSR chr19:7149896-7151209 (reverse complement)
+	0	ML[A-Z][A-Z][IV]R
+>MBNL chr3:152432504-152433226 (reverse complement)
+	0	ML[A-Z][A-Z][IV]R
+>ADD3 chr10:111891895-111892326 
+	0	ML[A-Z][A-Z][IV]R
