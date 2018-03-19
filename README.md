@@ -6,7 +6,7 @@
 MBNL1 and RBFOX1 are both regualtors of alternative splicing and they happen to regulate splcing in similar manners. Both are activators/suppresors of exon-inclusion for pre-mRNA splicing. 
 
 # Question
-Given the research question of: How does MBNL1 and RBFOX1 work together to regulate alternative splicing events in various transcripts that are regulated by both?
+How does MBNL1 and RBFOX1 work together to regulate alternative splicing events in various transcripts that are regulated by both?
 
 # Answer
 
