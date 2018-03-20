@@ -10,4 +10,4 @@ How does MBNL1 and RBFOX1 work together to regulate alternative splicing events 
 
 ## Answer:
 To answer this question, I developed a Python script to plot protein binding motifs on an SVG image using pycairo given exon and flanking intron positions. 
-In the corresponding folders in this repository, you can find the two FASTA files I used to iterate through while also factoring in the 'motifs' list of interest (some need to be referenced from the IUPAC site given the base_ambiguity. Two example SVG output images are also uploaded to reference the output one should get when running the script. 
+In the corresponding folders in this repository, you can find the two FASTA files I used to iterate through while also factoring in the 'motifs' list of interest (some need to be referenced from the IUPAC site given the base_ambiguity. Two example SVG output (Leslie_plot and Plot_2) are two images associated with both FASTA files. These along with an example SVG file are also uploaded to reference the output one should get when running the script. 
