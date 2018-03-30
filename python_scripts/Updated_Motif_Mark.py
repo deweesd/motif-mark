@@ -270,7 +270,7 @@ for sequence_lines in fasta_list:
             # Draw motifs given positions found
             for start_pos, stop_pos in zip(start_pos_motif, end_pos_motif):         
                 context.set_source_rgb(r, g, b)
-                motif_line(x_cord,y_cord,start_pos,stop_pos)
+                motif_line(x_coord,y_coord,start_pos,stop_pos)
 
 #write out drawing
 surface.finish()
