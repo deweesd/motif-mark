@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env/python3
 
 ## library imports ## 
 import re
@@ -182,7 +182,7 @@ context.set_font_size(5) # Font_size can change given size of FASTA file/output
 
 
 ## setting start position within pycairo setup ##
-surface = cairo.SVGSurface("Leslie_plot_2.svg", 1350, 1000)
+surface = cairo.SVGSurface("plot_2.svg", 1350, 1000)
 context = cairo.Context(surface)
 context.set_line_width(0.5)
 start = [300,100]
